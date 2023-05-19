@@ -1,2 +1,3 @@
-# Calculadora
-Uma Calculadora
+# Calculadora / Aprendizado de Git
+
+## Modificações da Calculadora
