@@ -3,3 +3,5 @@
 ## Modificações da Calculadora
 
 ### Salvando alterações no Git
+
+* COMANDO GIT PUSH
