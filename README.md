@@ -1,5 +1,5 @@
 # Calculadora
 Uma Calculadora
-## Comando Git Pull
+## Comando git Pull
 ### Comando Git Git Git (hehehe)
-#### git fetch
+#### Comando git fetch
